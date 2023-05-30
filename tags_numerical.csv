@@ -1,3 +1,4 @@
+tag,numerical_tag
 Account,1
 AdvId,2
 AdvRefID,3
@@ -44,6 +45,7 @@ PossDupFlag,43
 Price,44
 RefSeqNum,45
 RelatdSym,46
+Rule80A(aka,47
 SecurityID,48
 SenderCompID,49
 SenderSubID,50
@@ -210,7 +212,6 @@ NoRoutingIDs,215
 RoutingType,216
 RoutingID,217
 SpreadToBenchmark,218
-Error,261
 MDReqID,262
 SubscriptionRequestType,263
 MarketDepth,264
